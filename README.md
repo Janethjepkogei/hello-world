@@ -1,2 +1,2 @@
 # hello-world
-comp20 assignments
+This is the first comp20  lab assignment
